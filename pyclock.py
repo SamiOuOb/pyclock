@@ -48,7 +48,7 @@ while(1):
             print('\n')
             temp=[]
         print(sentence)
-        time.sleep(0.25)
+        time.sleep(0.0166666)
         timeM2=timeM
 
 
